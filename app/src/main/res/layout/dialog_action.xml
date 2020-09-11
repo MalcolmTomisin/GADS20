@@ -43,6 +43,8 @@
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
         android:layout_weight="1"
+        android:layout_gravity="center"
+        android:gravity="center"
         android:background="@drawable/bordered_button"
         android:text="Yes"
         android:textColor="@android:color/holo_orange_dark" />
